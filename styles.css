@@ -1,0 +1,13 @@
+*, *::before, *::after{
+    margin: 0 auto 1.25rem;
+    padding: 0.25rem;
+}
+
+
+.container{
+    text-align:center;
+}
+
+h1{
+    border: 10px;
+}
